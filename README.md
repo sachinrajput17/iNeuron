@@ -1,1 +1,1 @@
-# iNeuron's Cousese Assignments
+# iNeuron's PowerBI and Tableau Assignments
